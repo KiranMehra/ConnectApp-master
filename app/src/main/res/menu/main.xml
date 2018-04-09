@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item1"
+        android:orderInCategory="100"
+        android:icon="@drawable/icon_menu"
+        android:title="Event1"
+        >
+    </item>
+    <item
+        android:id="@+id/item2"
+        android:orderInCategory="100"
+        android:title="Message">
+    </item>
+
+
+</menu>
